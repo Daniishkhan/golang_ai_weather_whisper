@@ -1,2 +1,1 @@
-# This project creates a weather assistant that can understand and respond to natural language queries about weather. It combines weather API data with LLM capabilities to provide context-aware, natural language responses.
-
+# we are building an app that asks a user where they want to go and gets weather for that location. Based on the weather it recommend places to visit and gear to carry. 
